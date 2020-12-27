@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-#### welcome to my GitHub profile.
+### Welcome ✨ to my GitHub profile. 
+I make games 🎮 in Unity3D Game Engine and love to 👨‍🔬 experiment with new 🛠 tools provided by Unity.
+<!-- ####  I love to experiment with new tools of Unity.  Check out my repos for fun experiments I did in Unity. -->
 
 <!--
 **devanglimbad/devanglimbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
