@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-welcome to github profile.
+# welcome to my github profile.
 
 <!--
 **devanglimbad/devanglimbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
